@@ -1,1 +1,1 @@
-# stepickcourse
+# test repository for Selenium + Python course
